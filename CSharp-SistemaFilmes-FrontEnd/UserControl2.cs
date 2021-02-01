@@ -13,5 +13,9 @@ namespace CSharp_SistemaFilmes_FrontEnd {
         public UserControl2() {
             InitializeComponent();
         }
+
+        private void UserControl2_Load(object sender, EventArgs e) {
+
+        }
     }
 }
